@@ -1,0 +1,55 @@
+body.signin-body{
+    background-color: #e6f2ff;
+}
+
+.container.signin-container{
+    margin-top: 8%;
+}
+
+.card.signin-card{
+    padding: 40px 0px 20px;
+    background-color: #f4f4f4;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+img.signin-img{
+    padding: 0 20rem 2rem;
+    margin: auto;
+    display: block;
+}
+
+form.signin-form{
+    max-height: 350px;
+    margin: auto;
+    display: block;
+    width: 50%;
+}
+
+button.signin-btn{
+    color: #ffffff;
+    background-color: #00088b;
+    width: 100%;
+    margin-bottom: 1.2rem;
+}
+
+a.CNA{
+    font-size: 1.7rem;
+    text-align: center;
+    display: block;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: darkblue;
+}
+
+a:visited{
+    color: purple;
+}
+
+a:active{
+    color: darkblue;
+}
